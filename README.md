@@ -3,3 +3,23 @@ The objective of this project is to leverage the Whisper state of the art automa
 
 I take advantage of the HuggingFace ecosystem to fine-tune a large version of the Whisper model on music dataset curated manually by me.
 
+
+```
+|-- example.json
+|-- index.html
+|-- index.js
+|-- package.json
+|-- package-lock.json
+|-- README.md
+`-- src
+    |-- app.js
+    |-- models.js
+    |-- README.md
+    |-- routes.js
+    `-- utils
+        |-- another.js
+        |-- constants.js
+        |-- index.js
+        `-- README.md
+```
+
