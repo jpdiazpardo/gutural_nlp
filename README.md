@@ -26,3 +26,6 @@ I take advantage of the HuggingFace ecosystem to:
 * [Dataset](https://huggingface.co/datasets/jpdiazpardo/guturalScream_metalVocals)
 * [Model](https://huggingface.co/jpdiazpardo/whisper-tiny-metal)
 * [Gradio App](https://huggingface.co/spaces/jpdiazpardo/jpdiazpardo-whisper-tiny-metal)
+
+## Spectogram visualization
+![Alt text](Spectograms.jpg?raw=true)
