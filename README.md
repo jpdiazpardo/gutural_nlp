@@ -17,7 +17,10 @@ I take advantage of the HuggingFace ecosystem to:
 |-- README.md
 `-- Notebooks and Scripts
     |-- Dataset Preprocess Notebook.ipynb
+    |-- EDA_gutural_nlp.ipynb
+    |-- gutural_nlp.ipynb
     |-- preprocess.py
+    |--youtubetowav.py
 `-- images
     |-- spectogram 1.png
     |-- spectogram 2.png
