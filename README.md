@@ -16,5 +16,5 @@ I take advantage of the HuggingFace ecosystem to:
 `-- Notebooks and Scripts
     |-- Dataset Preporcess Notebook.ipynb
     |-- preprocess.py
-`-- SRTFiles
+`-- SRT Files
 ```
