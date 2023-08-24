@@ -9,14 +9,12 @@ I take advantage of the HuggingFace ecosystem to:
 
 **3)** Deploy a demo on Space repository using Gradio.
 
-##Folder structure
+## Folder structure
 
 ```
 |-- README.md
-`-- Notebooks
-    |-- app.js
-    |-- models.js
-    |-- README.md
-    |-- routes.js
+`-- Notebooks and Scripts
+    |-- Dataset Preporcess Notebook.ipynb
+    |-- preprocess.py
 `-- SRTFiles
 ```
