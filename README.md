@@ -14,7 +14,7 @@ I take advantage of the HuggingFace ecosystem to:
 ```
 |-- README.md
 `-- Notebooks and Scripts
-    |-- Dataset Preporcess Notebook.ipynb
+    |-- Dataset Preprocess Notebook.ipynb
     |-- preprocess.py
 `-- SRT Files
 ```
