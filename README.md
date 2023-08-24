@@ -18,6 +18,10 @@ I take advantage of the HuggingFace ecosystem to:
 `-- Notebooks and Scripts
     |-- Dataset Preprocess Notebook.ipynb
     |-- preprocess.py
+`-- images
+    |-- spectogram 1.png
+    |-- spectogram 2.png
+    |-- spectogram 3.png
 `-- SRT Files
 ```
 
