@@ -25,6 +25,8 @@ I take advantage of the HuggingFace ecosystem to:
     |-- spectogram 1.png
     |-- spectogram 2.png
     |-- spectogram 3.png
+`-- Metadata
+    |-- Dataset Lookup.csv
 `-- SRT Files
 ```
 
