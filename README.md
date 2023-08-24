@@ -32,4 +32,6 @@ I take advantage of the HuggingFace ecosystem to:
 * [Gradio App](https://huggingface.co/spaces/jpdiazpardo/jpdiazpardo-whisper-tiny-metal)
 
 ## Spectogram visualization
-![Alt text](Spectograms.png?raw=true)
+![Alt text](images/spectogram 1.png?raw=true)
+![Alt text](images/spectogram 2.png?raw=true)
+![Alt text](images/spectogram 3.png?raw=true)
