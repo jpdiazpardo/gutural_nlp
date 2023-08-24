@@ -34,6 +34,11 @@ I take advantage of the HuggingFace ecosystem to:
 * [Model](https://huggingface.co/jpdiazpardo/whisper-tiny-metal)
 * [Gradio App](https://huggingface.co/spaces/jpdiazpardo/jpdiazpardo-whisper-tiny-metal)
 
+## [Gutural Speech Recognition](https://www.youtube.com/playlist?list=PLkCTyMdVt0AHgp-80jqskjUtfHo-Ht4xy)
+The audio files for the dataset can be downloaded using the following command using the python script in this repository:
+`!python youtubetowav.py https://www.youtube.com/playlist?list=PLkCTyMdVt0AHgp-80jqskjUtfHo-Ht4xy`
+
+
 ## Spectogram visualization
 ![Alt text](images/spectogram_1.png?raw=true)
 ![Alt text](images/spectogram_2.png?raw=true)
