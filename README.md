@@ -20,7 +20,7 @@ I take advantage of the HuggingFace ecosystem to:
     |-- EDA_gutural_nlp.ipynb
     |-- gutural_nlp.ipynb
     |-- preprocess.py
-    |--youtubetowav.py
+    |-- youtubetowav.py
 `-- images
     |-- spectogram 1.png
     |-- spectogram 2.png
