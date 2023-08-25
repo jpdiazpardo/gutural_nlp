@@ -15,6 +15,7 @@ I take advantage of the HuggingFace ecosystem to:
 
 ```
 |-- README.md
+|-- License
 `-- Notebooks and Scripts
     |-- Dataset Preprocess Notebook.ipynb
     |-- EDA_gutural_nlp.ipynb
