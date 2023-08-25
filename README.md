@@ -43,7 +43,7 @@ The audio files for the dataset can be downloaded using the following command an
 ```python
 !python youtubetowav.py https://www.youtube.com/playlist?list=PLkCTyMdVt0AHgp-80jqskjUtfHo-Ht4xy
 ```
-Or using this [OneDrive link](https://livejaverianaedu-my.sharepoint.com/:f:/g/personal/juandiazp_javeriana_edu_co/EgXL8iZjxP9HsGKI7cbtMNMBOZJYtdVogvN_zX5-p8uC9A?e=gSJ6vR)
+or using this [OneDrive link](https://livejaverianaedu-my.sharepoint.com/:f:/g/personal/juandiazp_javeriana_edu_co/EgXL8iZjxP9HsGKI7cbtMNMBOZJYtdVogvN_zX5-p8uC9A?e=gSJ6vR)
 
 ## Spectogram visualization
 ![Alt text](images/spectogram_1.png?raw=true)
