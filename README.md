@@ -19,6 +19,7 @@ I take advantage of the HuggingFace ecosystem to:
     |-- Dataset Preprocess Notebook.ipynb
     |-- EDA_gutural_nlp.ipynb
     |-- gutural_nlp.ipynb
+    |-- SRT_downloader.ipynb
     |-- preprocess.py
     |-- youtubetowav.py
 `-- images
