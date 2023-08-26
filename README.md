@@ -44,7 +44,7 @@ Speech-to-text dataset with +2.5h of annotated audio, comprised of clean vocals 
   
 [Gradio App](https://huggingface.co/spaces/jpdiazpardo/jpdiazpardo-whisper-tiny-metal)
 
-Live demo of the ASR engine. With the transcription, I analyze the emotions present in the lyrics to identify: anger 🤬, disgust 🤢, fear 😨, joy 😀, neutral 😐, sadness 😭, surprise 😲 in a user friendly and interactive spider chart.
+Live demo of the ASR engine. With the transcription, I analyze the emotions present in the lyrics to identify: anger 🤬, disgust 🤢, fear 😨, joy 😀, neutral 😐, sadness 😭, surprise 😲 in a user-friendly and interactive spider chart.
 
 ## YouTube Playlist - [Gutural Speech Recognition](https://www.youtube.com/playlist?list=PLkCTyMdVt0AHgp-80jqskjUtfHo-Ht4xy)
 The audio files for the dataset can be downloaded using the following command with the python script in this repository:
