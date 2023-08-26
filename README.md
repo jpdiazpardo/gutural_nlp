@@ -29,6 +29,8 @@ I take advantage of the HuggingFace ecosystem to:
     |-- spectogram 3.png
 `-- Metadata
     |-- Dataset Lookup.csv
+`-- Dashboard
+    |-- Gutural Dashboard.pbix
 `-- SRT Files
 ```
 
