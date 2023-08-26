@@ -39,7 +39,7 @@ I take advantage of the HuggingFace ecosystem to:
 [Dataset](https://huggingface.co/datasets/jpdiazpardo/guturalScream_metalVocals)
 Speech-to-text dataset with +2.5h of annotated audio, comprised of clean vocals and different gutural sounds, including: low, mid, & high fry screams. The data was built with an eclectic sample of artists from varied sub-genres of hard metal music. Some of the artists included are: Suicide Silence, Lamb of God, Cradle of Filth, Cannibal Corpse and much more (full YouTube playlist available below).
   
-* [Model](https://huggingface.co/jpdiazpardo/whisper-tiny-metal)
+[Model](https://huggingface.co/jpdiazpardo/whisper-tiny-metal)
   
 [Gradio App](https://huggingface.co/spaces/jpdiazpardo/jpdiazpardo-whisper-tiny-metal)
 Live demo of the ASR engine. With the transcription, I analyze the emotions present in the lyrics to identify: anger 🤬, disgust 🤢, fear 😨, joy 😀, neutral 😐, sadness 😭, surprise 😲 in a user friendly and interactive spider chart.
