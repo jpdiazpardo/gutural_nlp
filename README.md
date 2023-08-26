@@ -41,7 +41,7 @@ I take advantage of the HuggingFace ecosystem to:
 * [Gradio App](https://huggingface.co/spaces/jpdiazpardo/jpdiazpardo-whisper-tiny-metal)
 
 ## YouTube Playlist - [Gutural Speech Recognition](https://www.youtube.com/playlist?list=PLkCTyMdVt0AHgp-80jqskjUtfHo-Ht4xy)
-The audio files for the dataset can be downloaded using the following command and the python script in this repository:
+The audio files for the dataset can be downloaded using the following command with the python script in this repository:
 ```python
 !python youtubetowav.py https://www.youtube.com/playlist?list=PLkCTyMdVt0AHgp-80jqskjUtfHo-Ht4xy
 ```
