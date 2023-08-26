@@ -31,6 +31,7 @@ I take advantage of the HuggingFace ecosystem to:
     |-- Dataset Lookup.csv
 `-- Dashboard
     |-- Gutural Dashboard.pbix
+    |-- Dashboard.JPG
 `-- SRT Files
 ```
 
@@ -46,6 +47,9 @@ The audio files for the dataset can be downloaded using the following command wi
 !python youtubetowav.py https://www.youtube.com/playlist?list=PLkCTyMdVt0AHgp-80jqskjUtfHo-Ht4xy
 ```
 or using this [OneDrive link](https://livejaverianaedu-my.sharepoint.com/:f:/g/personal/juandiazp_javeriana_edu_co/EgXL8iZjxP9HsGKI7cbtMNMBOZJYtdVogvN_zX5-p8uC9A?e=gSJ6vR)
+
+## Dashboard
+![Alt text](Dashboard/Dashboard.jpg?raw=true)
 
 ## Spectogram visualization
 ![Alt text](images/spectogram_1.png?raw=true)
