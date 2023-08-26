@@ -49,7 +49,7 @@ The audio files for the dataset can be downloaded using the following command wi
 or using this [OneDrive link](https://livejaverianaedu-my.sharepoint.com/:f:/g/personal/juandiazp_javeriana_edu_co/EgXL8iZjxP9HsGKI7cbtMNMBOZJYtdVogvN_zX5-p8uC9A?e=gSJ6vR)
 
 ## Dashboard
-![Alt text](Dashboard/Dashboard.jpg?raw=true)
+![Alt text](Dashboard/Dashboard.JPG?raw=true)
 
 ## Spectogram visualization
 ![Alt text](images/spectogram_1.png?raw=true)
